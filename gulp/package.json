@@ -1,0 +1,23 @@
+{
+  "name": "complete-coherence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gulp sass & gulp sass:prod & gulp js:prod & gulp js-user:prod & gulp sass-user:prod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "optipng-bin": "^6.0.0"
+  }
+}

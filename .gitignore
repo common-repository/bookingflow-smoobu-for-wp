@@ -1,0 +1,3 @@
+gulp/*
+!gulp/Gulpfile.js
+!gulp/package.json

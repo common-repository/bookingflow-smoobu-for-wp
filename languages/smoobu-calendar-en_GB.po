@@ -1,0 +1,440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-03-16 16:55+0200\n"
+"PO-Revision-Date: 2020-03-16 16:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_attr;esc_html;wp_kses_post\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: build\n"
+"X-Poedit-SearchPathExcluded-2: gulp\n"
+"X-Poedit-SearchPathExcluded-3: .git\n"
+
+#: classes/api/class-smoobu-api.php:100
+msgid ""
+"Sorry, but we have some technical issues. Please try again in a few minutes."
+msgstr ""
+
+#: classes/api/class-smoobu-api.php:106
+msgid "No results found"
+msgstr ""
+
+#: classes/api/class-smoobu-api.php:109
+#, php-format
+msgid "API provider returned error message: %s"
+msgstr ""
+
+#: classes/api/class-smoobu-api.php:114
+msgid "Unexpected error happened"
+msgstr ""
+
+#: classes/class-smoobu-main.php:102
+msgid "Template not found"
+msgstr ""
+
+#: classes/class-smoobu-main.php:151
+msgid "Connection successful. Do not forget to save your settings."
+msgstr ""
+
+#: classes/class-smoobu-main.php:152
+msgid "Connection failed. Error returned: "
+msgstr ""
+
+#: classes/class-smoobu-settings.php:51 classes/class-smoobu-settings.php:54
+msgid "General Settings"
+msgstr ""
+
+#: classes/class-smoobu-settings.php:51
+msgid "Smoobu Calendar"
+msgstr ""
+
+#: classes/class-smoobu-settings.php:55
+msgid "My Properties"
+msgstr ""
+
+#: classes/class-smoobu-settings.php:56
+msgid "Data Renewal"
+msgstr ""
+
+#: classes/class-smoobu-settings.php:57
+msgid "Webhook"
+msgstr ""
+
+#: classes/class-smoobu-settings.php:58
+msgid "Styling"
+msgstr ""
+
+#: classes/class-smoobu-settings.php:59
+msgid "FAQ"
+msgstr ""
+
+#: classes/class-smoobu-settings.php:194
+msgid ""
+"API key was saved, but we encountered an error while trying to update "
+"properties & availability information:"
+msgstr ""
+
+#: classes/class-smoobu-settings.php:199
+msgid ""
+"API key was saved and properties list & availability was sucessfully updated."
+msgstr ""
+
+#: classes/class-smoobu-settings.php:205 classes/class-smoobu-settings.php:343
+#: classes/class-smoobu-settings.php:363
+msgid "Settings saved."
+msgstr ""
+
+#: classes/class-smoobu-settings.php:241
+msgid "Properties list was sucessfully updated"
+msgstr ""
+
+#: classes/class-smoobu-settings.php:259
+msgid "Properties availability was sucessfully updated"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:80
+msgid "Please update your properties list under Settings -> Smoobu Calendar"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:247
+msgid "General Background Color"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:248
+msgid "General Fonts Color"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:249
+msgid "Header Background Color"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:250
+msgid "Header Font Color"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:251
+msgid "Days Abbr Font Color"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:252
+msgid "Regular Day Field Background Color "
+msgstr ""
+
+#: classes/class-smoobu-utility.php:253
+msgid "Regular Day Field Font Color"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:254
+msgid "Highlighted Day Field Background Color"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:255
+msgid "Highlighted Day Field Font Color"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:256
+msgid "Hovered Day Field Background Color"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:257
+msgid "Hovered Day Field Font Color"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:258
+msgid "Selected Day Field Background Color"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:259
+msgid "Selected Day Field Font Color"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:273
+msgid "What is Smoobu Calendar plugin?"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:274
+msgid ""
+"Smoobu Calendar is a plugin to display a calendar with busy/available days "
+"highlighted for a chosen property."
+msgstr ""
+
+#: classes/class-smoobu-utility.php:277
+msgid "How to get started?"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:282
+#, php-format
+msgid ""
+"1. To get started, you need to go to Smoobu Calendar settings sub-page <a "
+"href=\"%s\">General Settings</a>, fill in your <b>API key</b> and save it. "
+"In order to verify your API key is correct, please click <b>Check "
+"Connection</b> button - you should see a <b>Connection successful</b> "
+"message a few seconds later."
+msgstr ""
+
+#: classes/class-smoobu-utility.php:289
+msgid ""
+"2. When you save your API key, your properties and their availability is "
+"updated automatically. To update it later, please see FAQ questions <b>How "
+"to update my properties list?</b> and <b>How to update my properties "
+"availability?</b>"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:294
+msgid ""
+"3. To add a calendar, you can choose 1 out of 3 ways. You can add it to a "
+"sidebar by using <b>Smoobu Calendar Widget</b> widget. Alternatively, you "
+"can add it to a post or a page content by using a <b>Smoobu Calendar</b> "
+"Gutenberg block or by adding a shortcode."
+msgstr ""
+
+#: classes/class-smoobu-utility.php:301
+#, php-format
+msgid ""
+"A list of all possible shortcodes can be found in <a href=\"%s\">My "
+"Properties</a> page.</div>"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:308
+msgid "Where can I find my API key?"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:311
+msgid ""
+"You can find your API keys in Smoobu admin panel. Go to Settings and scroll "
+"down until you see a \"For Developers\" section."
+msgstr ""
+
+#: classes/class-smoobu-utility.php:318
+msgid "Simply copy the content of the <b>API key</b> input."
+msgstr ""
+
+#: classes/class-smoobu-utility.php:325
+msgid "What is a webhook?"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:328
+msgid ""
+"Webhook is a way to automatically push properties availability updates from "
+"Smoobu to your webpage. You will get automatic availability updates only if "
+"you have your webhook url set in the Smoobu admin panel."
+msgstr ""
+
+#: classes/class-smoobu-utility.php:335
+#, php-format
+msgid ""
+"To find your webhook url, go to <a href=\"%1$s\">Webhook</a> page. Copy the "
+"url, paste it under <b>Developers</b> settings in Smoobu admin panel (also "
+"see <b>Where can I find my API key?</b>) and save."
+msgstr ""
+
+#: classes/class-smoobu-utility.php:344
+msgid "How to update my properties list?"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:348
+#, php-format
+msgid ""
+"You can update your properties list by going to <a href=\"%s\">Data Renewal</"
+"a> page and clicking <b>Update Properties List</b> button."
+msgstr ""
+
+#: classes/class-smoobu-utility.php:355
+msgid "How to update my properties availability?"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:359
+#, php-format
+msgid ""
+"You can update your properties availability by going to <a href=\"%s\">Data "
+"Renewal</a> page and clicking <b>Update Properties Availability</b> button. "
+"Alternatively, you can set up your webhook to get availability updates "
+"automatically (see <b>What is a webhook?</b>)."
+msgstr ""
+
+#: classes/class-smoobu-utility.php:366
+msgid "What is calendar layout?"
+msgstr ""
+
+#: classes/class-smoobu-utility.php:368
+msgid ""
+"Calendar layout is a setting to choose how many rows and columns of months "
+"you want the calendar to have. The first number indicates number of rows and "
+"the second - number of columns. Currently, you can choose from 1 row x 3 "
+"columns to 3 rows x 1 colmun layout."
+msgstr ""
+
+#: classes/widgets/class-smoobu-calendar-widget.php:86
+msgid "Title"
+msgstr ""
+
+#: classes/widgets/class-smoobu-calendar-widget.php:90
+msgid "Property"
+msgstr ""
+
+#: classes/widgets/class-smoobu-calendar-widget.php:96
+msgid "Layout"
+msgstr ""
+
+#: views/admin/settings/faq.php:13
+msgid "Smoobu Calendar - FAQ"
+msgstr ""
+
+#: views/admin/settings/general.php:23
+msgid "Smoobu Calendar - General Settings"
+msgstr ""
+
+#: views/admin/settings/general.php:26
+msgid "You can find your API key in Smoobu developers settings, API key field."
+msgstr ""
+
+#: views/admin/settings/general.php:31 views/admin/settings/webhook.php:20
+#, php-format
+msgid ""
+"To access developers settings, go to Smoobu Admin Panel -> Settings -> <a "
+"href=\"%s\" target=\"_blank\">For Developers</a>."
+msgstr ""
+
+#: views/admin/settings/general.php:41
+msgid "API Key"
+msgstr ""
+
+#: views/admin/settings/general.php:48
+msgid "Check Connection"
+msgstr ""
+
+#: views/admin/settings/general.php:55 views/admin/settings/styling.php:112
+msgid "Save Changes"
+msgstr ""
+
+#: views/admin/settings/parts/notice.php:27
+msgid "Dismiss this notice."
+msgstr ""
+
+#: views/admin/settings/properties.php:13
+msgid "Smoobu Calendar - My Properties"
+msgstr ""
+
+#: views/admin/settings/properties.php:17
+#, php-format
+msgid ""
+"If you don't see your properties, update properties list in <a href=\"%s"
+"\">data renewal</a> page."
+msgstr ""
+
+#: views/admin/settings/properties.php:25
+msgid "Layout style"
+msgstr ""
+
+#: views/admin/settings/properties.php:40
+msgid "Property Name"
+msgstr ""
+
+#: views/admin/settings/properties.php:41
+msgid "Shortcode"
+msgstr ""
+
+#: views/admin/settings/renewal.php:23
+msgid "Smoobu Calendar - Data Renewal"
+msgstr ""
+
+#: views/admin/settings/renewal.php:25
+msgid "To update properties and availability manually, click buttons below."
+msgstr ""
+
+#: views/admin/settings/renewal.php:28
+#, php-format
+msgid ""
+"To get availability updated automatically, please configure <a href=\"%s"
+"\">webhook</a> settings."
+msgstr ""
+
+#: views/admin/settings/renewal.php:34
+msgid "Update Properties List"
+msgstr ""
+
+#: views/admin/settings/renewal.php:35
+msgid "Update Properties Availability"
+msgstr ""
+
+#: views/admin/settings/styling.php:23
+msgid "Smoobu Calendar - Styling"
+msgstr ""
+
+#: views/admin/settings/styling.php:27
+msgid "Theme"
+msgstr ""
+
+#: views/admin/settings/styling.php:33
+msgid "Calendar theme"
+msgstr ""
+
+#: views/admin/settings/styling.php:40
+msgid ""
+"<b>Warning!</b> Changing the theme will revoke all style customizations."
+msgstr ""
+
+#: views/admin/settings/styling.php:46
+msgid "Style Customization"
+msgstr ""
+
+#: views/admin/settings/styling.php:51
+msgid "Custom Styling"
+msgstr ""
+
+#: views/admin/settings/styling.php:57
+msgid "Use custom styles"
+msgstr ""
+
+#: views/admin/settings/styling.php:61
+msgid ""
+"If checked, settings below will be used instead of default theme settings."
+msgstr ""
+
+#: views/admin/settings/styling.php:67
+msgid "Border Shadow"
+msgstr ""
+
+#: views/admin/settings/styling.php:73
+msgid "Show shadow around calendar borders"
+msgstr ""
+
+#: views/admin/settings/styling.php:81
+msgid "Border Radius"
+msgstr ""
+
+#: views/admin/settings/styling.php:86
+msgid "px"
+msgstr ""
+
+#: views/admin/settings/styling.php:113
+msgid "Reset Default Styling"
+msgstr ""
+
+#: views/admin/settings/styling.php:113
+msgid ""
+"Are you sure? This action will unretrievably reset all your custom styling!"
+msgstr ""
+
+#: views/admin/settings/webhook.php:13
+msgid "Smoobu Calendar - Webhook"
+msgstr ""
+
+#: views/admin/settings/webhook.php:15
+msgid ""
+"In order to receive automatic availability updates, paste the code below to "
+"Smoobu developers settings, webhookUrl field."
+msgstr ""
+
+#: views/admin/settings/webhook.php:28
+msgid "Webhook Url"
+msgstr ""
